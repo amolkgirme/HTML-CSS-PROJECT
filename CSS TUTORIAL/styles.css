@@ -1,0 +1,57 @@
+*{
+  margin-right: 0px;
+  padding: 0%;
+}
+div{
+  width:100%;
+  height:150px;
+  margin-right: 0px;
+}
+.one{
+  background: linear-gradient(to top,blue,green);
+}
+.two{
+  background: linear-gradient(to left,blue,green,red,yellow,#f15025);
+}
+.three{
+  background: linear-gradient(300deg,red,green);
+}
+.four{
+  background: linear-gradient(to top left,red,green);
+}
+.five{
+  background: linear-gradient(blue 20%,yellow 70%);
+}
+.six{
+  background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.9));
+}
+
+
+/* div{
+  min-height: 100vh;
+  color:black;
+  border:2px solid red;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size:2rem;
+  text-transform:capitalize;
+}
+
+.big-img{
+  background: url("./big.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+}
+.small-img{
+ background:url("./images/udemy.png");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position:center;
+  background-attachment:scroll;
+}
+.folder-img{
+  background: url("./big.jpg");
+  background-size: contain;
+} */
